@@ -1,0 +1,9 @@
+{
+    "pack": {
+        "modid": "basicarmours",
+        "name": "Basics Armours",
+        "description": "Adds some basic armour to help with vanilla minecraft.",
+        "version": "0.1.0",
+        "pack_format": 8
+    }
+}

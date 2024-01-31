@@ -1,0 +1,15 @@
+{
+  "item.basicsarmours.emerald_sword": "Emerald Sword",
+  "item.basicsarmours.emerald_pickaxe": "Emerald Pickaxe",
+  "item.basicsarmours.emerald_axe": "Emerald Axe",
+  "item.basicsarmours.emerald_shovel": "Emerald Shovel",
+  "item.basicsarmours.emerald_hoe": "Emerald Hoe",
+
+  "item.basicsarmours.emerald_cap": "Emerald Cap",
+  "item.basicsarmours.emerald_jumper": "Emerald Jumper",
+  "item.basicsarmours.emerald_trousers": "Emerald Trousers",
+  "item.basicsarmours.emerald_trainers": "Emerald Trainers",
+
+  "itemGroup.basicsarmoursweapons": "Basics Armours: Weapons",
+  "itemGroup.basicsarmoursarmours": "Basics Armours: Armours"
+}
